@@ -3,5 +3,5 @@
 /test/multidep
 /test/fixtures/project/dist
 /dist
-
+.idea/
 yarn-error.log
