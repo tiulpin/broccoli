@@ -22,5 +22,4 @@ jobs:
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@bot/qodana-next
         with:
-          pr-mode: "false"
           push-fixes: "pull-request"
